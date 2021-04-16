@@ -22,6 +22,7 @@ callforaction:
   url: http://techwriter.pl/
   text: Visit the Polish tech comm knowledge base ›
   style: info
+
 permalink: /index.html
 
 homepage: true
