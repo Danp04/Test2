@@ -21,7 +21,7 @@ widget3:
 callforaction:
   url: http://techwriter.pl/
   text: Visit the Polish tech comm knowledge base ›
-  style: alert
+  style: info
 permalink: /index.html
 
 homepage: true
