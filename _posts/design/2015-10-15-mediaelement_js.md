@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline: "Soap! Conference"
-title: "Play Audio & Video with media&shy;element.js"
-teaser: "Soap! event is wonderful tech comm-related conference organized in Cracow, Poland. Join the world of tech comm passionates eager to share their knowledge and experience, and become a part of it."
+title: "Join the best content conference in Poland"
+teaser: "Soap! event is a wonderful tech comm-related conference organized in Cracow, Poland. Join the world of tech comm passionates eager to share their knowledge and experience, and become a part of it."
 categories:
   - design
 header: no
@@ -10,7 +10,7 @@ image:
     title: mediaplayer_js-title.jpg
     thumb: mediaplayer_js-thumb.jpg
     homepage: mediaplayer_js-home.jpg
-    caption: soap technical communication
+    caption: photo by soap technical communication
     caption_url: https://www.facebook.com/soapconf/
 mediaplayer: true
 ---
