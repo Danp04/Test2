@@ -8,8 +8,7 @@ categories:
 header: no
 image:
     title: mediaplayer_js-title.jpg
-    thumb: mediaplayer_js-thumb.jpg
-    homepage: mediaplayer_js-home.jpg
+    homepage: mediaplayer_js-thumb.jpg
     caption: photo by soap technical communication
     caption_url: https://www.facebook.com/soapconf/
 mediaplayer: true
