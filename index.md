@@ -19,8 +19,8 @@ widget3:
   text: "Share information and experience, organize interactions in a way that builds support."
 
 callforaction:
-  url: http://techwriter.pl/
-  text: Visit the Polish tech comm knowledge base ›
+  url: https://www.youtube.com/watch?v=QTdlv6KQiEo&t=375s&ab_channel=WriteTheDocsPodcast%26Meetups
+  text: Take a lesson and check for yourself if Poland performs well ›
   style: info
 
 permalink: /index.html
