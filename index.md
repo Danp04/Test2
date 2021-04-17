@@ -10,7 +10,7 @@ widget1:
 widget2:
   title: "Connect"
   url: 'http://phlow.github.io/feeling-responsive/info/'
-  image: widget-1-303x182.jpg
+  image: widget-1-302x182.jpg
   text: "Find a way to reach out people of similar profession."
 
 widget3:
