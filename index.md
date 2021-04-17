@@ -5,13 +5,14 @@ header:
 widget1:
   title: "Start"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
+  image: widget-1a-302x182.jpg
   text: "Identify your purpose."
 widget2:
   title: "Connect"
   url: 'http://phlow.github.io/feeling-responsive/info/'
+  image: widget-1-303x182.jpg
   text: "Find a way to reach out people of similar profession."
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+
 widget3:
   title: "Collaborate"
   url: 'https://github.com/Phlow/feeling-responsive'
