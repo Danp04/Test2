@@ -6,7 +6,7 @@ widget1:
   title: "Start"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1a-302x182.jpg
-  text: "Identify your purpose."
+  text: "Identify your purpose and target group."
 widget2:
   title: "Connect"
   url: 'http://phlow.github.io/feeling-responsive/info/'
