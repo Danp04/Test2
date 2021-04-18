@@ -3,6 +3,7 @@ title: "How to Build a Community of Tech Writers in your country following the e
 description: An example of technical documentation hosted on Github pages, using the Feeling responsive Jekyll theme.
 remote_theme: danp04/feeling-responsive
 urlimg: 'https://danp04.github.io/Test2/images/'
+logo: "/"
 
 aux_links:
   "Source repository on GitHub":
