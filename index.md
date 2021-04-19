@@ -2,7 +2,6 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
-
 widget1:
   title: "Start"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -13,7 +12,6 @@ widget2:
   url: 'http://phlow.github.io/feeling-responsive/info/'
   image: widget-1-302x182.jpg
   text: "Find a way to reach out people of similar profession."
-
 widget3:
   title: "Collaborate"
   url: 'https://github.com/Phlow/feeling-responsive'
