@@ -62,11 +62,6 @@ format: frontpage
         <div class="small-12 columns">
             {% for post in site.posts limit:1 %}
             {% if post.image.homepage %}
-
-            {% if post.image.caption_url and post.image.caption %}
-            <p class="text-right caption">
-                <a href="{{ post.image.caption_url }}">{{ post.image.caption }}</a>
-            </p>
             {% endif %}
             {% else post.image.homepage == NULL %}
             <h2>{{ site.data.language.new_blog_entries }}</h2>
