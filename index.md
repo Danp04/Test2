@@ -1,7 +1,9 @@
 ---
 layout: frontpage
-header:
-  image_fullwidth: header_unsplash_12.jpg
+header: no
+image:
+  title: header_unsplash_12.jpg
+
 widget1:
   title: "Start"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
