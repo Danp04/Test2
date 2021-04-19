@@ -1,5 +1,6 @@
 ---
 layout: frontpage
+header: no
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
