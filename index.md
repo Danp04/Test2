@@ -1,8 +1,7 @@
 ---
 layout: frontpage
-header: no
-image:
-  title: header_unsplash_12.jpg
+header:
+  image_fullwidth: header_unsplash_12.jpg
 
 widget1:
   title: "Start"
