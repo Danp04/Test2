@@ -79,7 +79,7 @@ body.video cite { color: #fff; }
     font-size: rem-calc(54);
     font-family: $header-font-family;
     color: #fff;
-    text-transform: uppercase;
+    text-transform: none;
     text-shadow: 0 2px 3px rgba(0,0,0,.4);
 }
 #masthead-no-image-header {
@@ -285,7 +285,7 @@ body.video cite { color: #fff; }
     #footer h5 {
         letter-spacing: 1px;
         color: #fff;
-        text-transform: uppercase;
+        text-transform: none;
     }
 
 
@@ -306,7 +306,7 @@ body.video cite { color: #fff; }
 .credits a {
     color: $subfooter-link-color;
     border: 0;
-    text-transform: uppercase;
+    text-transform: none;
     &:hover {
         color: #fff;
   }
