@@ -7,7 +7,7 @@
   side: left
 
 - title: "Explore"
-  url: "/design/"
+  url: "/"
   side: left
   dropdown:
   - title: "Polish techwriting community"
