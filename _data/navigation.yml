@@ -11,9 +11,9 @@
   side: left
   dropdown:
   - title: "Polish techwriting community"
-    url: "/design/grid/"
+    url: "/"
   - title: "Polish job market"
-    url: "/design/typography/typography/"
+    url: "/"
 
 - title: "FAQ"
   url: "/"
