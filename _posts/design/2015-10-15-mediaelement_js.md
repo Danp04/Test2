@@ -1,8 +1,8 @@
 ---
 layout: page
-subheadline: "Soap! Conference"
-title: "Join the best content conference in Poland"
-teaser: "Soap! event is a wonderful tech comm-related conference organized in Cracow, Poland. Join the world of tech comm passionates eager to share their knowledge and experience, and become a part of it."
+subheadline: "Content events"
+title: "Let's meet up online or in person"
+teaser: "Join the world of tech comm passionates eager to share their knowledge and experience, and become a part of it."
 categories:
   - design
 header: no
