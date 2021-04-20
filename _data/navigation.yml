@@ -10,8 +10,8 @@
   url: "/design/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
+  - title: "Polish techwriting community"
+    url: "/design/community/"
   - title: "Typography"
     url: "/design/typography/typography/"
   - title: "Page/Post"
