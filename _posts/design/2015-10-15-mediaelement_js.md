@@ -1,8 +1,8 @@
 ---
 layout: page
-subheadline: "Content events"
-title: "Let's meet up online or in person"
-teaser: "Join the world of tech comm passionates eager to share their knowledge and experience, and become a part of it."
+subheadline: "ITCQF"
+title: "Go global with ITCQF and get a certificate"
+teaser: "ITCQF stands for International Technical Communication Qualifications Foundation. Internationally recognised certification developed by professionals will increase your employment value in the tech comm job market."
 categories:
   - design
 header: no
