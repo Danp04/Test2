@@ -50,6 +50,10 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
+- title: "FAQ"
+  url: "/"
+  side: right
+
 - title: "Search"
   url: "/search/"
   side: right
