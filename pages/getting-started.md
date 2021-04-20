@@ -10,7 +10,8 @@ permalink: "/getting-started/"
 ---
 
 
-### What does this guide consist of?
+#### What does this guide consist of?
+
 
 This guide consists of:
 
@@ -37,7 +38,7 @@ This guide consists of:
 
 
 
-### How to navigate through this guide?
+#### How to navigate through this guide?
 
 To systematize your knowledge, it is best to start either with **Explore** section or an online meeting to find out what the Polish people have done to make the community visible. Learn about tech comm training and find out more about the industry events.
 
