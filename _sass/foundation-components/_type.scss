@@ -383,7 +383,7 @@ $align-class-breakpoints:
     /* Abbreviations */
     abbr,
     acronym {
-      text-transform: uppercase;
+      text-transform: none;
       font-size: 90%;
       color: $body-font-color;
       cursor: $cursor-help-value;
