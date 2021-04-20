@@ -3,6 +3,5 @@ title: "A website that doesn't exit"
 layout: redirect
 sitemap: false
 permalink: /redirect-page/
-redirect_to:  "http://phlow.github.io/feeling-responsive/info/"
+redirect_to:  "http://danp04.github.io/Test2/info/"
 ---
-This is just a page to demonstrate the `redirect`-layout, programmend by [Kanishk](http://codingtips.kanishkkunal.in/about/).
