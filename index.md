@@ -8,12 +8,12 @@ widget1:
   image: widget-1a-302x182.jpg
   text: "Identify your purpose and target group."
 widget2:
-  title: "Connect"
+  title: "Manage and moderate"
   url: 'http://phlow.github.io/feeling-responsive/info/'
   image: widget-1-302x182.jpg
   text: "Find a way to reach out people of similar profession."
 widget3:
-  title: "Collaborate"
+  title: "Engage and measure"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
   text: "Share information and experience, organize interactions in a way that builds support."
