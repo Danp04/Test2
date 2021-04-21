@@ -21,6 +21,10 @@
   dropdown:
   - title: "Start"
     url: "/Start/"
+  - title: "Manage and moderate"
+    url: "/Manage and moderate/"
+  - title: "Engage and measure"
+    url: "/Engage and measure/"
 
 - title: Archive
   url: "/roadmap/archive/"
