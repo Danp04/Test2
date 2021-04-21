@@ -9,5 +9,5 @@ categories:
 comments: false
 show_meta: false
 ---
-If you want to use Disqus-Comments with *Feeling Responsive*, just open `config.yml` and add your `disqus_shortname`. [More on how to use Disqus ›](https://disqus.com/websites/)
+
 <!--more-->
