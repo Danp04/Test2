@@ -4,7 +4,7 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Start"
-  url: 'https://danp04.github.io/Test2/'
+  url: 'https://danp04.github.io/Test2/Start/'
   image: widget-1a-302x182.jpg
   text: "Identify your purpose and target group."
 widget2:
