@@ -6,8 +6,6 @@ teaser: "Create powerful multi-device layouts quickly and easily with the 12-col
 breadcrumb: true
 permalink: "/community/"
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
-image:
-    thumb: "unsplash_brooklyn-bridge-thumb.jpg"
+    image: "header_unsplash_2-970x.jpg"
 ---
 *Feeling Responsive* is built on Foundation. And of course...
