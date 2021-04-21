@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "ITCQF"
-title: "Go global with ITCQF and get a certificate"
+title: "Go global with ITCQF"
 teaser: "ITCQF stands for International Technical Communication Qualifications Foundation. Internationally recognised certification developed by professionals will increase your employment value in the tech comm job market."
 categories:
   - design
