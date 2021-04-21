@@ -4,8 +4,6 @@ subheadline:  "Polish tech comm scene"
 title:  "Job market in Poland"
 teaser: "Create powerful multi-device layouts quickly and easily with the 12-column, nest-able Foundation grid."
 breadcrumb: true
-categories:
-    - design
 permalink: "/Polish_community/"
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
