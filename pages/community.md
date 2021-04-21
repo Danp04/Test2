@@ -7,7 +7,7 @@ breadcrumb: true
 permalink: "/community/"
 header:
     image: "header_unsplash_2.jpg"
-    background-color: "#fdfdfd"
+    background-color: "#fabb00"
     caption: Photo by Unsplash and Canva
     caption_url: https://unsplash.com/
 ---
