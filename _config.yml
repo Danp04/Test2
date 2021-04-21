@@ -2,6 +2,8 @@ name: danp04
 title: "How to build a community of tech writers in your country"
 description: An example of technical documentation hosted on Github pages, using the Feeling responsive Jekyll theme.
 remote_theme: danp04/feeling-responsive
+url: 'https://danp04.github.io'
+baseurl: '/Test2'
 urlimg: 'https://danp04.github.io/Test2/images/'
 logo: "log.png"
 
