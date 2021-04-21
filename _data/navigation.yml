@@ -19,6 +19,8 @@
   url: "/roadmap/"
   side: left
   dropdown:
+  - title: "Start"
+    url: "/"
   - title: "Archive"
     url: "/roadmap/archive/"
 
