@@ -7,7 +7,6 @@ tags:
     - phase
 categories:
     - design
-permalink: "/Manage and moderate/"
 header: no
 ---
 

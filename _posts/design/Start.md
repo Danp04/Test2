@@ -7,7 +7,6 @@ tags:
     - phase
 categories:
     - design
-permalink: "/Start/"
 header: no
 ---
 

@@ -7,7 +7,6 @@ tags:
     - phase
 categories:
     - design
-permalink: "/Engage and measure/"
 header: no
 ---
 
