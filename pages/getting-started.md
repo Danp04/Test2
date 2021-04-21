@@ -15,7 +15,7 @@ permalink: "/getting-started/"
 
 This guide consists of:
 
-* main menu
+* main menu:
 
 ![menu](../images/main_menu.jpg)
 
@@ -24,15 +24,15 @@ This guide consists of:
 3. **Explore** section where you can find information about the tech comm in Poland and the Polish job market
 4. **FAQ** section where you will find answers to all common doubts
 
-* a roadmap where you can discover how-to approach more deeply
+* a roadmap where you can discover how-to approach more deeply:
 
 ![roadmap](../images/com_roadmap.jpg)
 
-* the link to an online meeting with a co-founder of tech comm in Poland
+* the link to an online meeting with a co-founder of tech comm in Poland:
 
 ![link](../images/link.jpg)
 
-* the tech comm training and workshops section, which provides an insight into industry education in Poland
+* the tech comm training and workshops section, which provides an insight into industry education in Poland:
 
 ![education](../images/workshop.jpg)
 
