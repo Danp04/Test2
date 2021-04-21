@@ -16,7 +16,7 @@
     url: "/job_market/"
 
 - title: "Roadmap"
-  url: "/Roadmap/"
+  url: "/"
   side: left
   dropdown:
   - title: "Phase 1: start"
