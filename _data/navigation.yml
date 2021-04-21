@@ -19,7 +19,7 @@
   url: "/Roadmap/"
   side: left
   dropdown:
-  - title: "Phase 1: tart"
+  - title: "Phase 1: start"
     url: "/Start/"
   - title: "Phase 2: manage and moderate"
     url: "/Manage and moderate/"
