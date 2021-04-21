@@ -15,12 +15,9 @@
   - title: "Polish job market"
     url: "/job_market/"
 
-- title: Roadmap
-  url: "/roadmap/"
-  side: left
-  dropdown:
-  - title: "Archive"
-    url: "/roadmap/archive/"
+- title: Archive
+  url: "roadmap/archive/"
+  side: right
 
 - title: "FAQ"
   url: "/FAQ/"
