@@ -9,5 +9,3 @@ categories:
 comments: false
 show_meta: false
 ---
-
-<!--more-->
