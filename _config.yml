@@ -46,7 +46,7 @@ defaults:
       path: ''
       type: "posts"
     values:
-      show_meta: true
+      show_meta: false
       sidebar:
       comments: false
 
