@@ -7,8 +7,6 @@ header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/Roadmap/"
 ---
-<ul>
-    {% for post in site.tags.phase %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+{: .t60 }
+
+{% include list-posts tag='phase' %}
