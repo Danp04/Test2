@@ -11,4 +11,6 @@ permalink: "/Manage and moderate/"
 header: no
 ---
 
+{: .t60 }
 
+{% include list-posts tag='phase' %}
