@@ -20,11 +20,11 @@
   side: left
   dropdown:
   - title: "Phase 1: start"
-    url: "/Phase 1: start/"
+    url: "/design/Start/"
   - title: "Phase 2: manage and moderate"
-    url: "/Phase 2: manage and moderate/"
+    url: "/design/Manage and moderate/"
   - title: "Phase 3: engage and measure"
-    url: "/Phase 3: engage and measure/"
+    url: "/design/Engage and measure/"
 
 - title: Archive
   url: "/roadmap/archive/"
