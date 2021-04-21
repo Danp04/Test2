@@ -1,12 +1,12 @@
 ---
 layout: page-fullwidth
-subheadline:  "Multi-Device Layouts in Color"
+subheadline:  "Polish tech comm scene"
 title:  "Polish techwriting community"
-teaser: "Create powerful multi-device layouts quickly and easily with the 12-column, nest-able Foundation grid. To optimize the size of your images, you find the correct dimensions beneath. Further below you find the <a href='#color-scheme-and-colors-codes'>colorscheme and colors</a> used for <em>Feeling Responsive</em> and their color codes."
+teaser: "Create powerful multi-device layouts quickly and easily with the 12-column, nest-able Foundation grid".
 breadcrumb: true
 categories:
     - design
-permalink: /design/grid/
+permalink: /design/Polish_community/
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 image:
