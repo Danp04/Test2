@@ -8,6 +8,7 @@ header:
 permalink: "/design/"
 ---
 <ul>
-    <li>[Test](C:/Users/daanu/Desktop/Studia/31.01.2021/Test2/_posts/design/ITCQF.md)
-    </li>
+    {% for post in site.categories.design %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
 </ul>
