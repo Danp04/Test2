@@ -1,11 +1,14 @@
 ---
 layout: page
-subheadline:  "Polish tech comm scene"
 title:  "Job market in Poland"
-teaser: "Create powerful multi-device layouts quickly and easily with the 12-column, nest-able Foundation grid."
-permalink: "/job_market/"
+subheadline:  "Polish tech comm scene"
+teaser: "Feeling Responsive allows you to use all kinds of headers."
+categories:
+    - design
+tags:
+    - design
+    - community
 header: no
 ---
-*Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
 
- [1]: http://foundation.zurb.com/docs/components/grid.html
+*Feeling Responsive* is built on Foundation.

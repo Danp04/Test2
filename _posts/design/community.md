@@ -1,9 +1,13 @@
 ---
 layout: page
-subheadline:  "Polish tech comm scene"
 title:  "Polish techwriting community"
-teaser: "Create powerful multi-device layouts quickly and easily with the 12-column, nest-able Foundation grid."
-permalink: "/community/"
+subheadline:  "Polish tech comm scene"
+teaser: "Feeling Responsive allows you to use all kinds of headers."
+categories:
+    - design
+tags:
+    - design
+    - community
 header: no
 image:
     title: header_unsplash_2.jpg
