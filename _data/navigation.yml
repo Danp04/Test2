@@ -7,28 +7,24 @@
   side: left
 
 - title: "Explore"
-  url: "/techscene/"
+  url: "/"
   side: left
   dropdown:
   - title: "Polish techwriting community"
-    url: "/techscene/community/"
+    url: "/"
   - title: "Polish job market"
-    url: "/techscene/job_market/"
+    url: "/"
 
 - title: "Roadmap"
   url: "/"
   side: left
   dropdown:
   - title: "Phase 1: start"
-    url: "/Start/"
+    url: "/"
   - title: "Phase 2: manage and moderate"
-    url: "/Manage and moderate/"
+    url: "/"
   - title: "Phase 3: engage and measure"
-    url: "/Engage and measure/"
-
-- title: Archive
-  url: "/roadmap/archive/"
-  side: right
+    url: "/"
 
 - title: "FAQ"
   url: "/FAQ/"
