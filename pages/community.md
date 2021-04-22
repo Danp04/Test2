@@ -15,15 +15,11 @@ permalink: "/community/"
 > Today the awareness of technical communication as a field of knowledge is growing, and here, in Poland, it's growing faster than ever. <cite>Michal Skowron and Jakub Wisniewski, Poland for [I'd rather be writing](https://idratherbewriting.com/2017/10/31/untold-story-of-techwriter-pl-poland/)</cite>
 
 
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
-<div class="panel radius" markdown="1">
 **Table of Contents**
 {: #toc }
 *  TOC
 {:toc}
-</div>
-</div>
+
 
 
 ### Origins of Techwriter.pl
