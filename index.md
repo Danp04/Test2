@@ -16,7 +16,7 @@ widget3:
   title: "Become a part of tekom Europe e.V"
   url: 'https://www.technical-communication.org/'
   image: widget-github-303x182.jpg
-  text: "Find out more about the largest industry association that raises awareness of technical communication throughout Europe."
+  text: "Check if your country belongs to the largest industry association that raises awareness of technical communication throughout Europe."
 
 callforaction:
   url: https://www.youtube.com/watch?v=QTdlv6KQiEo&t=375s&ab_channel=WriteTheDocsPodcast%26Meetups
