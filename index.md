@@ -3,15 +3,15 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Start"
+  title: "ITCQF"
   image: widget-1a-302x182.jpg
-  text: "Identify your purpose and target group."
+  text: "Go global with ITCQF."
 widget2:
-  title: "Manage and moderate"
+  title: "Improve yourself with tech comm experts"
   image: widget-1-302x182.jpg
-  text: "Find a way to reach out people of similar profession."
+  text: "Full-time postgraduate course available in Warsaw, Poland."
 widget3:
-  title: "Engage and measure"
+  title: "Become a part of tekom Europe"
   image: widget-github-303x182.jpg
   text: "Share information and experience, organize interactions in a way that builds support."
 
