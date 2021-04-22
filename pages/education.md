@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Polish tech comm scene
-title: Tech comm education
+title: Tech comm training
 teaser: "The default template for posts and pages aligns the page beautifully in the middle." 
 breadcrumb: true
 header: no
