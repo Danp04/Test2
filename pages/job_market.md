@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Job market in Poland"
+title:  "Job market"
 subheadline:  "Polish tech comm scene"
 teaser: "Feeling Responsive allows you to use all kinds of headers."
 breadcrumb: true
