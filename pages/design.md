@@ -8,7 +8,9 @@ header:
 permalink: "/design/"
 ---
 <ul>
-    {% for page in site.categories.phase %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+    <li>[Phase 1]({{ site.url }}{{ site.baseurl }}/design/ITCQF/)
+        [Phase 2]({{ site.url }}{{ site.baseurl }}/design/studies/)
+        [Phase 3]({{ site.url }}{{ site.baseurl }}/design/selfstudy/)
+    </li>
     {% endfor %}
 </ul>
