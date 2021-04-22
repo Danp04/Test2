@@ -52,12 +52,15 @@ Reach out the [Soap!](http://soapconf.com/) social media platform on [Facebook](
 
 With the development of technology, many things happen online. Although you can associate the online environment mostly with written activities, today's reality has revealed the potential of live online events and remote work. High interaction of people on the web encourages the formation of industry sub-groups. That's why the Polish tech comm passionates have also gone viral. 
 
-A recently created activity in the polish tech comm scene is podcast, [Tech Writer koduje](https://techwriterkoduje.pl/) [eng, Tech Writer codes]. It's in the Polish native language and addresses aspects that make the work of tech writers easier.
+After the [Techwriter.pl](http://techwriter.pl/) portal was created, over time the team decided to set up linkedin, facebook, and twitter. Follow the links below to check it yourself but the content is in the Polish language:
+* [linkedin](https://www.linkedin.com/company/techwriter-pl/)
+* [twitter](https://twitter.com/techwriterpl)
 
-Next, discover the online groups created on a local level by the industry practitioners:
+A recently created activity is podcast, [Tech Writer koduje](https://techwriterkoduje.pl/) [eng, Tech Writer codes]. It's also in the Polish native language, and addresses aspects that make the work of tech writers easier.
+
+Then, the following groups grow at a fast pace:
 1. [Madcap Flare users group](https://www.facebook.com/groups/PLFUG) 
 2. [Documentation practices-related Polish group](https://www.facebook.com/groups/tworzeniedokumentacji) created by [Techwriter.pl](http://techwriter.pl/) team
-3. [Techwriter.pl linkedin group](https://www.linkedin.com/company/techwriter-pl/) and [Twitter](https://twitter.com/techwriterpl)
 
 The online groups can be your starting point in a community development. It's quite easy to organize but more difficult to keep members active.     
 To create an online group you need:
