@@ -45,6 +45,25 @@ Reach out the [Soap!](http://soapconf.com/) social media platform on [Facebook](
 
 #### Meet Content
 
-[Meet Content](http://meetcontent.org/) or Meet-up events connect the industry professionals on a local level. Through local meetings, a network of people who have been in the same or similar field expands. They share experiences, learn from each other, improve themselves. 
+[Meet Content](http://meetcontent.org/) or Meet-up events connect the industry professionals on a local level. Through local meetings, a network of people who have been in the same or similar field expands. They share experiences, learn from each other, improve themselves. These meetings are quite popular in Cracow, Wroclaw, and Gdansk.
+
+
+### Go viral
+
+With the development of technology, many things happen online. Although you can associate the online environment mostly with written activities, today's reality has revealed the potential of live online events and remote work. High interaction of people on the web encourages the formation of industry sub-groups. That's why the Polish tech comm passionates have also gone viral. 
+
+A recently created activity in the polish tech comm scene is podcast, [Tech Writer koduje](https://techwriterkoduje.pl/) [Eng, Tech Writer codes]. It's in the Polish language and addresses aspects that make the work of Tech Writers easier.
+
+Next, you can find the online groups created on a local level by the industry practitioners:
+1. [Madcap Flare users group](https://www.facebook.com/groups/PLFUG) 
+2. [Documentation practices-related Polish group](https://www.facebook.com/groups/tworzeniedokumentacji) created by [Techwriter.pl](http://techwriter.pl/) team
+3. [Techwriter.pl linkedin group](https://www.linkedin.com/company/techwriter-pl/) and [Twitter](https://twitter.com/techwriterpl)
+
+The online groups can be your starting point in a community development. It's quite easy to organize but more difficult to keep members active.     To create an online group you need:
+* rules and regulations
+* predefined goals
+* a moderator or moderators to encourage involvement
+* a legacy plan
+
 
 
