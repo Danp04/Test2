@@ -5,9 +5,9 @@ title:  "Polish techwriting community"
 teaser: "Feeling Responsive allows you to use all kinds of headers."
 breadcrumb: true
 categories:
-    - design
+    - techscene
 tags:
-    - design
+    - techscene
     - community
 image:
     title: header_unsplash_2.jpg
