@@ -8,5 +8,6 @@ header:
 permalink: "/design/"
 ---
 <ul>
-    <li><a href="{{ https://danp04.github.io }}{{ Test2 }}{{ design }}">{{ ITCQF }}</a></li>
+    <li>![Test](C:\Users\daanu\Desktop\Studia\31.01.2021\Test2\_posts\design\ITCQF.md)
+    </li>
 </ul>
