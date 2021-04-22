@@ -8,5 +8,5 @@ header:
 permalink: "/design/"
 ---
 <ul>
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ https://danp04.github.io }}{{ Test2 }}{{ design }}">{{ ITCQF }}</a></li>
 </ul>
