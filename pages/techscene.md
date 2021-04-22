@@ -8,7 +8,7 @@ header:
 permalink: "/techscene/"
 ---
 <ul>
-    {% for post in site.categories.design %}
+    {% for post in site.categories.techscene %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
