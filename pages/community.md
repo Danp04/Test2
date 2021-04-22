@@ -48,7 +48,7 @@ Reach out the [Soap!](http://soapconf.com/) social media platform on [Facebook](
 [Meet Content](http://meetcontent.org/) or Meet-up events connect the industry professionals on a local level. Through local meetings, a network of people who have been in the same or similar field expands. They share experiences, learn from each other, improve themselves. These meetings are quite popular in Cracow, Wroclaw, and Gdansk.
 
 
-### Go viral
+### Online journey
 
 With the development of technology, many things happen online. Although you can associate the online environment mostly with written activities, today's reality has revealed the potential of live online events and remote work. High interaction of people on the web encourages the formation of industry sub-groups. That's why the Polish tech comm passionates have also gone viral. 
 
