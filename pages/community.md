@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Polish tech comm scene
-title:  Polish techwriting community
+title:  Techwriting community
 teaser: "The default template for posts and pages aligns the page beautifully in the middle." 
 breadcrumb: true
 header: no
