@@ -8,7 +8,7 @@ header:
 permalink: "/design/"
 ---
 <ul>
-    {% for page in page. %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+    {% for post in site.tags.phase %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
