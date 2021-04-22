@@ -2,8 +2,7 @@
 layout: page
 subheadline: Polish tech comm scene
 title:  Polish techwriting community"
-teaser: "The default template for posts and pages aligns the page beautifully in the middle. 
-meta_teaser: "This is an example of a beautiful aligned post in the middle. 
+teaser: "The default template for posts and pages aligns the page beautifully in the middle." 
 breadcrumb: true
 image:
     title: header_unsplash_2.jpg
