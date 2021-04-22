@@ -20,12 +20,12 @@ This guide consists of:
 ![menu](../images/main_menu.jpg)
 
 1. **Home** page
-2. **Getting started** section where you can find out how to make the use of this guide
+2. **Getting started** section
 3. **Explore Poland** section where you can find all information related to the tech comm in Poland and the Polish job market
 4. **Community building** guidelines
-5. **FAQ** section where you will find answers to all common doubts
+5. **FAQ** section where you will find possible answers to your doubts
 
-* the part where you can investigate tech comm worldwide
+* the part where you can investigate the tech comm worldwide
 
 ![roadmap](../images/com_roadmap.jpg)
 
