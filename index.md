@@ -13,7 +13,7 @@ widget2:
   image: widget-1-302x182.jpg
   text: "As a documentation passionate, become a member of Write the Docs community and stay tuned."
 widget3:
-  title: "Become a part of tekom Europe"
+  title: "Become a part of tekom Europe e.V"
   url: 'https://www.technical-communication.org/'
   image: widget-github-303x182.jpg
   text: "Find out more about the largest industry association that raises awareness of technical communication throughout Europe."
