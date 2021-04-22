@@ -6,14 +6,16 @@
   url: "/getting-started/"
   side: left
 
-- title: "Explore"
+- title: "Explore Poland"
   url: "/"
   side: left
   dropdown:
-  - title: "Polish techwriting community"
+  - title: "Techwriting community"
     url: "/community/"
-  - title: "Polish job market"
+  - title: "Job market"
     url: "/job_market/"
+  - title: "Tech comm training"
+    url: "/"
 
 - title: "Roadmap"
   url: "/"
