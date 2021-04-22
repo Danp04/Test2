@@ -473,14 +473,14 @@ table.pyhltable .linenodiv {
     line-height: 1.75;
     word-spacing: 0.1em;
     //letter-spacing: 0;
-    font-style: italic;
+    font-style: normal;
     text-align: justify;
   }
 
   blockquote {
     padding: 0;
     border: 0;
-		font-style: italic;
+		font-style: normal;
 		
 		&:before {
 		  content:"\00BB";
@@ -557,7 +557,7 @@ table.pyhltable .linenodiv {
   .attribution {
     font-size: $blockquote-cite-font-size;
     line-height: 1.45;
-    font-style: italic;
+    font-style: normal;
     br {
       display: none;
     }
