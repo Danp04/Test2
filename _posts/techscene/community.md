@@ -1,17 +1,15 @@
 ---
 layout: page
-subheadline:  "Polish tech comm scene"
-title:  "Polish techwriting community"
-teaser: "Feeling Responsive allows you to use all kinds of headers."
+subheadline: Polish tech comm scene
+title:  Polish techwriting community"
+teaser: "The default template for posts and pages aligns the page beautifully in the middle. <strong>But</strong> you can customize posts/pages easily via switches in the front matter to <em>get a sidebar</em> and/or to <em>turn off meta-information</em> at the end of the page like categories, tags and dates."
+meta_teaser: "This is an example of a beautiful aligned post in the middle. There is no sidebar to distract the reader. The difference to the Page-Template is, that you find meta-information at the bottom of the post."
+breadcrumb: true
 categories:
     - techscene
-tags:
-    - techscene
-    - community
-header: no
 image:
     title: header_unsplash_2.jpg
-    caption: Photo by Unsplash and Canva
-    caption_url: https://unsplash.com/
+    caption: Unsplash.com, Canva
+    caption_url: http://unsplash.com
 ---
 *Feeling Responsive* is built on Foundation. And of course...
