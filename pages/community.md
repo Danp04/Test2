@@ -54,12 +54,13 @@ With the development of technology, many things happen online. Although you can 
 
 A recently created activity in the polish tech comm scene is podcast, [Tech Writer koduje](https://techwriterkoduje.pl/) [eng, Tech Writer codes]. It's in the Polish native language and addresses aspects that make the work of tech writers easier.
 
-Next, you can find the online groups created on a local level by the industry practitioners:
+Next, discover the online groups created on a local level by the industry practitioners:
 1. [Madcap Flare users group](https://www.facebook.com/groups/PLFUG) 
 2. [Documentation practices-related Polish group](https://www.facebook.com/groups/tworzeniedokumentacji) created by [Techwriter.pl](http://techwriter.pl/) team
 3. [Techwriter.pl linkedin group](https://www.linkedin.com/company/techwriter-pl/) and [Twitter](https://twitter.com/techwriterpl)
 
-The online groups can be your starting point in a community development. It's quite easy to organize but more difficult to keep members active.     To create an online group you need:
+The online groups can be your starting point in a community development. It's quite easy to organize but more difficult to keep members active.     
+To create an online group you need:
 * rules and regulations
 * predefined goals
 * a moderator or moderators to encourage involvement
