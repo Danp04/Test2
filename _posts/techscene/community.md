@@ -3,12 +3,12 @@ layout: page
 subheadline:  "Polish tech comm scene"
 title:  "Polish techwriting community"
 teaser: "Feeling Responsive allows you to use all kinds of headers."
-breadcrumb: true
 categories:
     - techscene
 tags:
     - techscene
     - community
+header: no
 image:
     title: header_unsplash_2.jpg
     caption: Photo by Unsplash and Canva
