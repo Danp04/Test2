@@ -52,7 +52,7 @@ Reach out the [Soap!](http://soapconf.com/) social media platform on [Facebook](
 
 With the development of technology, many things happen online. Although you can associate the online environment mostly with written activities, today's reality has revealed the potential of live online events and remote work. High interaction of people on the web encourages the formation of industry sub-groups. That's why the Polish tech comm passionates have also gone viral. 
 
-A recently created activity in the polish tech comm scene is podcast, [Tech Writer koduje](https://techwriterkoduje.pl/) [Eng, Tech Writer codes]. It's in the Polish language and addresses aspects that make the work of Tech Writers easier.
+A recently created activity in the polish tech comm scene is podcast, [Tech Writer koduje](https://techwriterkoduje.pl/) [eng, Tech Writer codes]. It's in the Polish native language and addresses aspects that make the work of tech writers easier.
 
 Next, you can find the online groups created on a local level by the industry practitioners:
 1. [Madcap Flare users group](https://www.facebook.com/groups/PLFUG) 
