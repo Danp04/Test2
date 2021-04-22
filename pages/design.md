@@ -12,5 +12,4 @@ permalink: "/design/"
         [Phase 2]({{ site.url }}{{ site.baseurl }}/design/studies/)
         [Phase 3]({{ site.url }}{{ site.baseurl }}/design/selfstudy/)
     </li>
-    {% endfor %}
 </ul>
