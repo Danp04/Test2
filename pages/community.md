@@ -2,7 +2,7 @@
 layout: page
 subheadline: Polish tech comm scene
 title:  Techwriting community
-teaser: ">We want to get a message through to all tech comm folks that contribution to the community isn't that hard and that everyone has something interesting to say. <cite>Michal Skowron and Jakub Wisniewski, Poland </cite> "
+teaser: "> We want to get a message through to all tech comm folks that contribution to the community isn't that hard and that everyone has something interesting to say. <cite>Michal Skowron and Jakub Wisniewski, Poland </cite> "
 breadcrumb: true
 header: no
 image:
