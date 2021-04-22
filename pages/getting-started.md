@@ -41,5 +41,5 @@ To systematize your knowledge, it is best to start either with **Explore Poland*
 
 Then, you can follow the community building guidelines which cover all information on what to start with and how to keep going. 
 
-Finally, check the **FAQ** section for answers to your doubts.
+Finally, check the **FAQ** section if you look for answers to your doubts.
 
