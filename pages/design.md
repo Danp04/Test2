@@ -8,8 +8,7 @@ header:
 permalink: "/design/"
 ---
 <ul>
-    <li>[Phase 1]({{ site.url }}{{ site.baseurl }}/design/ITCQF/)
-        [Phase 2]({{ site.url }}{{ site.baseurl }}/design/studies/)
-        [Phase 3]({{ site.url }}{{ site.baseurl }}/design/selfstudy/)
-    </li>
+    <li>[Phase 1]({{ site.url }}{{ site.baseurl }}/design/ITCQF/)</li>
+    <li>[Phase 2]({{ site.url }}{{ site.baseurl }}/design/studies/)</li>
+    <li>[Phase 3]({{ site.url }}{{ site.baseurl }}/design/selfstudy/)</li>
 </ul>
