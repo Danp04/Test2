@@ -4,6 +4,7 @@ subheadline: Polish tech comm scene
 title:  Polish techwriting community"
 teaser: "The default template for posts and pages aligns the page beautifully in the middle." 
 breadcrumb: true
+header: no
 image:
     title: header_unsplash_2.jpg
     caption: Unsplash.com, Canva
