@@ -1,10 +1,11 @@
 ---
 layout: page
+format: post
 subheadline: "ITCQF"
 title: "Go global with ITCQF"
 teaser: "ITCQF stands for International Technical Communication Qualifications Foundation. Internationally recognised certification developed by professionals will increase your employment value in the tech comm job market."
 categories:
-  - design
+  - techscene
 header: no
 image:
     title: mediaplayer_js-title.jpg
