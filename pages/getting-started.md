@@ -12,8 +12,7 @@ permalink: "/getting-started/"
 
 #### What does this guide consist of?
 
-
-This guide consists of:
+This guide includes:
 
 * navigator:
 
@@ -40,7 +39,7 @@ This guide consists of:
 
 To systematize your knowledge, it is best to start either with **Explore Poland** section or the online meeting to find out what your Polish colleagues have done to make the community visible. Learn about tech comm training and find out more about the industry events.
 
-Then, you can read the community building guidelines which cover all information on what to start with and how to keep going. 
+Then, you can follow the community building guidelines which cover all information on what to start with and how to keep going. 
 
 Finally, check the **FAQ** section for answers to your doubts.
 
