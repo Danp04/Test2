@@ -50,7 +50,7 @@ Reach out the [Soap!](http://soapconf.com/) social media platform on [Facebook](
 
 ### Online journey
 
-With the development of technology, many things happen online. Although you can associate the online environment mostly with written activities, today's reality has revealed the potential of live online events and remote work. High interaction of people on the web encourages the formation of industry sub-groups. That's why the Polish tech comm passionates have also gone viral. 
+With the development of technology, many things happen online. Although you can associate the online environment mostly with written activities, today's reality has revealed the potential of live online events and remote work. High interaction of people on the web encourages the formation of industry sub-groups. The Polish tech comm passionates have also gone viral. 
 
 After the [Techwriter.pl](http://techwriter.pl/) portal was created, over time the team decided to set up linkedin, facebook, and twitter. Follow the links below to check it yourself but the content is in the Polish language:
 * [linkedin](https://www.linkedin.com/company/techwriter-pl/)
