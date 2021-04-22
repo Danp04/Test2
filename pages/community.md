@@ -17,6 +17,6 @@ permalink: "/community/"
 
 ### Testerzy.pl and Techwriter.pl
 
-In Poland, there has long been a portal for IT software testers, Testerzy.pl. However, there wasn't any source of information for people involved in the broadly defined technical communications industry. In 2013, Dariusz Drezno, a Polish software testing expert came up with the idea of a portal for the Polish tech writers, Techwriter.pl. 
+In Poland, there has long been a portal for IT software testers, [Testerzy.pl](https://testerzy.pl/) However, there wasn't any source of information for people involved in the broadly defined technical communications industry. In 2013, Dariusz Drezno, a Polish software testing expert came up with the idea of a portal for the Polish tech writers, [Techwriter.pl](http://techwriter.pl/). 
 
 
