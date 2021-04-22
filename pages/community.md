@@ -63,6 +63,7 @@ Then, the following groups grow at a fast pace:
 2. [Documentation practices-related Polish group](https://www.facebook.com/groups/tworzeniedokumentacji) created by [Techwriter.pl](http://techwriter.pl/) team
 
 The online groups can be your starting point in a community development. It's quite easy to organize but more difficult to keep members active.     
+
 To create an online group you need:
 * rules and regulations
 * predefined goals
