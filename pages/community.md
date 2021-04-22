@@ -26,7 +26,7 @@ permalink: "/community/"
 </div>
 
 
-### Origins of [Techwriter.pl](http://techwriter.pl/)
+### Origins of Techwriter.pl
 
 In Poland, there has long been a portal for IT software testers, [Testerzy.pl](https://testerzy.pl/). However, there wasn't any source of information for people involved in the broadly defined technical communications industry. 
 
@@ -41,13 +41,13 @@ Poland's range of the industry conferences and meetings have been a mainstay of 
 
 Due to the Covid-19 pandemic, meetings and conferences have moved online or have been rescheduled.
 
-#### [Soap! Conference](http://soapconf.com/)
+#### Soap! Conference
 
 One of the largest content conference in Poland is [Soap!](http://soapconf.com/). By coincidence, the first [Soap!](http://soapconf.com/) conference took place on the day of the [Techwriter.pl](http://techwriter.pl/) portal start-up. Over time [Techwriter.pl](http://techwriter.pl/) has become a [Soap!](http://soapconf.com/) conference partner. 
 
 Reach out the [Soap!](http://soapconf.com/) social media platform on [Facebook](https://www.facebook.com/soapconf/) to keep up to date if you're interested.
 
-#### [Meet Content](http://meetcontent.org/)
+#### Meet Content
 
 [Meet Content](http://meetcontent.org/) or Meet-up events connect the industry professionals on a local level. Through local meetings, a network of people who have been in the same or similar field expands. They share experiences, learn from each other, improve themselves. 
 
