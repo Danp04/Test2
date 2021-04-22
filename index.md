@@ -8,11 +8,6 @@ widget1:
   image: widget-1a-302x182.jpg
   text: "Go global with ITCQF."
 widget2:
-  title: "Improve yourself with tech comm experts"
-  url: 'https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna?_ga=2.241059655.572864605.1619090741-1548036485.1615398291'
-  image: widget-1-302x182.jpg
-  text: "Full-time postgraduate course available in Warsaw, Poland."
-widget3:
   title: "Become a part of tekom Europe"
   url: 'https://www.technical-communication.org/'
   image: widget-github-303x182.jpg
