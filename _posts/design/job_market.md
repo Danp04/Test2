@@ -4,9 +4,9 @@ title:  "Job market in Poland"
 subheadline:  "Polish tech comm scene"
 teaser: "Feeling Responsive allows you to use all kinds of headers."
 categories:
-    - design
+    - techscene
 tags:
-    - design
+    - techscene
     - community
 header: no
 ---
