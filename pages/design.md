@@ -8,6 +8,6 @@ header:
 permalink: "/design/"
 ---
 <ul>
-    <li>![Test](C:\Users\daanu\Desktop\Studia\31.01.2021\Test2\_posts\design\ITCQF.md)
+    <li>![Test](C:/Users/daanu/Desktop/Studia/31.01.2021/Test2/_posts/design/ITCQF.md)
     </li>
 </ul>
