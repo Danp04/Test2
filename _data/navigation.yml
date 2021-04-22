@@ -22,9 +22,9 @@
   - title: "Start"
     url: "/start/"
   - title: "Manage and moderate"
-    url: "/manage and"
+    url: "/manage_moderate/"
   - title: "Engage and measure"
-    url: "/"
+    url: "/engage_measure/"
 
 - title: "FAQ"
   url: "/FAQ/"
