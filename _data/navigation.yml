@@ -7,13 +7,13 @@
   side: left
 
 - title: "Explore"
-  url: "/"
+  url: "techscene"
   side: left
   dropdown:
   - title: "Polish techwriting community"
-    url: "/community/"
+    url: "design/community/"
   - title: "Polish job market"
-    url: "/job_market/"
+    url: "design/job_market/"
 
 - title: "Roadmap"
   url: "/"
